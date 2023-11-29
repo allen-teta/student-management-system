@@ -1,0 +1,30 @@
+const student=[
+{
+    id:1,
+    names:"allen",
+    age:20,
+    sex:"female"
+
+},
+{
+    id:2,
+    names:"peggy",
+    age:18,
+    sex:"female"
+},
+{
+    id:3,
+    names:"Aline",
+    age:20,
+    sex:"female"
+},
+{
+id:4,
+names:"eric",
+age:27,
+sex:"male"
+}
+];
+module.exports={
+    student,
+}
